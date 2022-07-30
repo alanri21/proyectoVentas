@@ -21,3 +21,7 @@ Reporte transacional
 1- Listado de productos
 2- Listado de vendedores por sucursal
 
+Diagrama
+------------------
+Adjunto: Academia_Flujograma.pdf
+
