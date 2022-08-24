@@ -16,7 +16,6 @@ Referencia: Academia Ingeniero de Datos - Consigna 3 - Ventas.pdf
 
 BI de Negocio Ventas
 * 1- Ranking de los 5 mejores vendedores
-* 2- Productos mas vendidos / sucursal / vendedor /zona geografica
 * 3- Ranking de facturacion por sucursal
 
 Reporte transacional
